@@ -1,0 +1,42 @@
+C:\Users\Hristo-PC\Desktop\Youtube Player\Youtube Player\bin\Debug\Youtube Player.exe.config
+C:\Users\Hristo-PC\Desktop\Youtube Player\Youtube Player\bin\Debug\Youtube Player.exe
+C:\Users\Hristo-PC\Desktop\Youtube Player\Youtube Player\bin\Debug\Youtube Player.pdb
+C:\Users\Hristo-PC\Desktop\Youtube Player\Youtube Player\obj\Debug\Youtube_Player.Form1.resources
+C:\Users\Hristo-PC\Desktop\Youtube Player\Youtube Player\obj\Debug\Youtube_Player.Properties.Resources.resources
+C:\Users\Hristo-PC\Desktop\Youtube Player\Youtube Player\obj\Debug\Youtube Player.csproj.GenerateResource.cache
+C:\Users\Hristo-PC\Desktop\Youtube Player\Youtube Player\obj\Debug\Youtube Player.csproj.CoreCompileInputs.cache
+C:\Users\Hristo-PC\Desktop\Youtube Player\Youtube Player\obj\Debug\Youtube Player.exe
+C:\Users\Hristo-PC\Desktop\Youtube Player\Youtube Player\obj\Debug\Youtube Player.pdb
+C:\Users\Hristo-PC\Desktop\Youtube Player\Youtube Player\bin\Debug\YoutubeSearch.dll
+C:\Users\Hristo-PC\Desktop\Youtube Player\Youtube Player\obj\Debug\Youtube Player.csproj.CopyComplete
+C:\Users\Hristo-PC\Desktop\Youtube Player\Youtube Player\obj\Debug\Youtube Player.csprojAssemblyReference.cache
+C:\Users\Hristo-PC\Desktop\Youtube Player\Youtube Player\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\Hristo-PC\Desktop\Youtube Player\Youtube Player\bin\Debug\System.AppContext.dll
+C:\Users\Hristo-PC\Desktop\Youtube Player\Youtube Player\bin\Debug\System.Console.dll
+C:\Users\Hristo-PC\Desktop\Youtube Player\Youtube Player\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Hristo-PC\Desktop\Youtube Player\Youtube Player\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\Hristo-PC\Desktop\Youtube Player\Youtube Player\bin\Debug\System.IO.Compression.dll
+C:\Users\Hristo-PC\Desktop\Youtube Player\Youtube Player\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\Hristo-PC\Desktop\Youtube Player\Youtube Player\bin\Debug\System.IO.FileSystem.dll
+C:\Users\Hristo-PC\Desktop\Youtube Player\Youtube Player\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\Hristo-PC\Desktop\Youtube Player\Youtube Player\bin\Debug\System.Net.Http.dll
+C:\Users\Hristo-PC\Desktop\Youtube Player\Youtube Player\bin\Debug\System.Net.Sockets.dll
+C:\Users\Hristo-PC\Desktop\Youtube Player\Youtube Player\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Hristo-PC\Desktop\Youtube Player\Youtube Player\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\Hristo-PC\Desktop\Youtube Player\Youtube Player\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\Hristo-PC\Desktop\Youtube Player\Youtube Player\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\Hristo-PC\Desktop\Youtube Player\Youtube Player\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Hristo-PC\Desktop\Youtube Player\Youtube Player\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\Hristo-PC\Desktop\Youtube Player\Youtube Player\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Hristo-PC\Desktop\Youtube Player\Youtube Player\bin\Debug\Interop.WMPLib.dll
+C:\Users\Hristo-PC\Desktop\Youtube Player\Youtube Player\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Hristo-PC\Desktop\Youtube Player\Youtube Player\obj\Debug\Interop.WMPLib.dll
+C:\Users\Hristo-PC\Desktop\Youtube Player\Youtube Player\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Hristo-PC\Desktop\Youtube Player\Youtube Player\obj\Debug\Youtube Player.csproj.ResolveComReference.cache
+C:\Users\Hristo-PC\Desktop\Youtube Player\Youtube Player\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Hristo-PC\Desktop\Youtube Player\Youtube Player\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Hristo-PC\Desktop\Youtube Player\Youtube Player\bin\Debug\libvideo.dll
+C:\Users\Hristo-PC\Desktop\Youtube Player\Youtube Player\bin\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\Hristo-PC\Desktop\Youtube Player\Youtube Player\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\Hristo-PC\Desktop\Youtube Player\Youtube Player\obj\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\Hristo-PC\Desktop\Youtube Player\Youtube Player\obj\Debug\AxInterop.ShockwaveFlashObjects.dll
