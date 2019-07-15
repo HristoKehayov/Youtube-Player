@@ -1,9 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-VisualStudioVersion = 15.0.27703.2035
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29009.5
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Youtube Player", "Youtube Player\Youtube Player.csproj", "{F1D34E82-7BD3-40E8-A1C3-DCA76AA1DDEE}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Youtube-Player-Installer", "Youtube-Player-Installer\Youtube-Player-Installer.vdproj", "{DC61EC42-91E1-46EF-B81F-B1C45E715AE8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,8 @@ Global
 		{F1D34E82-7BD3-40E8-A1C3-DCA76AA1DDEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F1D34E82-7BD3-40E8-A1C3-DCA76AA1DDEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F1D34E82-7BD3-40E8-A1C3-DCA76AA1DDEE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DC61EC42-91E1-46EF-B81F-B1C45E715AE8}.Debug|Any CPU.ActiveCfg = Debug
+		{DC61EC42-91E1-46EF-B81F-B1C45E715AE8}.Release|Any CPU.ActiveCfg = Release
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -40,3 +40,62 @@ C:\Users\Hristo-PC\Desktop\Youtube Player\Youtube Player\bin\Debug\Interop.Shock
 C:\Users\Hristo-PC\Desktop\Youtube Player\Youtube Player\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
 C:\Users\Hristo-PC\Desktop\Youtube Player\Youtube Player\obj\Debug\Interop.ShockwaveFlashObjects.dll
 C:\Users\Hristo-PC\Desktop\Youtube Player\Youtube Player\obj\Debug\AxInterop.ShockwaveFlashObjects.dll
+E:\Programming-Stuffs\C#\Projects\Youtube-Player\Youtube Player\bin\Debug\Youtube Player.exe.config
+E:\Programming-Stuffs\C#\Projects\Youtube-Player\Youtube Player\bin\Debug\Youtube Player.exe
+E:\Programming-Stuffs\C#\Projects\Youtube-Player\Youtube Player\bin\Debug\Youtube Player.pdb
+E:\Programming-Stuffs\C#\Projects\Youtube-Player\Youtube Player\bin\Debug\Google.Apis.Auth.dll
+E:\Programming-Stuffs\C#\Projects\Youtube-Player\Youtube Player\bin\Debug\Google.Apis.Auth.PlatformServices.dll
+E:\Programming-Stuffs\C#\Projects\Youtube-Player\Youtube Player\bin\Debug\Google.Apis.Core.dll
+E:\Programming-Stuffs\C#\Projects\Youtube-Player\Youtube Player\bin\Debug\Google.Apis.dll
+E:\Programming-Stuffs\C#\Projects\Youtube-Player\Youtube Player\bin\Debug\Google.Apis.PlatformServices.dll
+E:\Programming-Stuffs\C#\Projects\Youtube-Player\Youtube Player\bin\Debug\Google.Apis.YouTube.v3.dll
+E:\Programming-Stuffs\C#\Projects\Youtube-Player\Youtube Player\bin\Debug\libvideo.dll
+E:\Programming-Stuffs\C#\Projects\Youtube-Player\Youtube Player\bin\Debug\Microsoft.Win32.Primitives.dll
+E:\Programming-Stuffs\C#\Projects\Youtube-Player\Youtube Player\bin\Debug\Newtonsoft.Json.dll
+E:\Programming-Stuffs\C#\Projects\Youtube-Player\Youtube Player\bin\Debug\OpenSSL.PrivateKeyDecoder.dll
+E:\Programming-Stuffs\C#\Projects\Youtube-Player\Youtube Player\bin\Debug\OpenSSL.X509Certificate2.Provider.dll
+E:\Programming-Stuffs\C#\Projects\Youtube-Player\Youtube Player\bin\Debug\System.AppContext.dll
+E:\Programming-Stuffs\C#\Projects\Youtube-Player\Youtube Player\bin\Debug\System.Console.dll
+E:\Programming-Stuffs\C#\Projects\Youtube-Player\Youtube Player\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+E:\Programming-Stuffs\C#\Projects\Youtube-Player\Youtube Player\bin\Debug\System.Globalization.Calendars.dll
+E:\Programming-Stuffs\C#\Projects\Youtube-Player\Youtube Player\bin\Debug\System.IO.Compression.dll
+E:\Programming-Stuffs\C#\Projects\Youtube-Player\Youtube Player\bin\Debug\System.IO.Compression.ZipFile.dll
+E:\Programming-Stuffs\C#\Projects\Youtube-Player\Youtube Player\bin\Debug\System.IO.FileSystem.dll
+E:\Programming-Stuffs\C#\Projects\Youtube-Player\Youtube Player\bin\Debug\System.IO.FileSystem.Primitives.dll
+E:\Programming-Stuffs\C#\Projects\Youtube-Player\Youtube Player\bin\Debug\System.Net.Http.dll
+E:\Programming-Stuffs\C#\Projects\Youtube-Player\Youtube Player\bin\Debug\System.Net.Sockets.dll
+E:\Programming-Stuffs\C#\Projects\Youtube-Player\Youtube Player\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\Programming-Stuffs\C#\Projects\Youtube-Player\Youtube Player\bin\Debug\System.Security.Cryptography.Algorithms.dll
+E:\Programming-Stuffs\C#\Projects\Youtube-Player\Youtube Player\bin\Debug\System.Security.Cryptography.Encoding.dll
+E:\Programming-Stuffs\C#\Projects\Youtube-Player\Youtube Player\bin\Debug\System.Security.Cryptography.Primitives.dll
+E:\Programming-Stuffs\C#\Projects\Youtube-Player\Youtube Player\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+E:\Programming-Stuffs\C#\Projects\Youtube-Player\Youtube Player\bin\Debug\System.Xml.ReaderWriter.dll
+E:\Programming-Stuffs\C#\Projects\Youtube-Player\Youtube Player\bin\Debug\YoutubeSearch.dll
+E:\Programming-Stuffs\C#\Projects\Youtube-Player\Youtube Player\bin\Debug\Google.Apis.pdb
+E:\Programming-Stuffs\C#\Projects\Youtube-Player\Youtube Player\bin\Debug\Google.Apis.xml
+E:\Programming-Stuffs\C#\Projects\Youtube-Player\Youtube Player\bin\Debug\Google.Apis.Auth.pdb
+E:\Programming-Stuffs\C#\Projects\Youtube-Player\Youtube Player\bin\Debug\Google.Apis.Auth.xml
+E:\Programming-Stuffs\C#\Projects\Youtube-Player\Youtube Player\bin\Debug\Google.Apis.Core.pdb
+E:\Programming-Stuffs\C#\Projects\Youtube-Player\Youtube Player\bin\Debug\Google.Apis.Core.xml
+E:\Programming-Stuffs\C#\Projects\Youtube-Player\Youtube Player\bin\Debug\Google.Apis.YouTube.v3.pdb
+E:\Programming-Stuffs\C#\Projects\Youtube-Player\Youtube Player\bin\Debug\Google.Apis.YouTube.v3.xml
+E:\Programming-Stuffs\C#\Projects\Youtube-Player\Youtube Player\bin\Debug\Newtonsoft.Json.xml
+E:\Programming-Stuffs\C#\Projects\Youtube-Player\Youtube Player\bin\Debug\OpenSSL.PrivateKeyDecoder.xml
+E:\Programming-Stuffs\C#\Projects\Youtube-Player\Youtube Player\bin\Debug\OpenSSL.X509Certificate2.Provider.xml
+E:\Programming-Stuffs\C#\Projects\Youtube-Player\Youtube Player\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+E:\Programming-Stuffs\C#\Projects\Youtube-Player\Youtube Player\bin\Debug\Interop.ShockwaveFlashObjects.dll
+E:\Programming-Stuffs\C#\Projects\Youtube-Player\Youtube Player\bin\Debug\Interop.WMPLib.dll
+E:\Programming-Stuffs\C#\Projects\Youtube-Player\Youtube Player\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+E:\Programming-Stuffs\C#\Projects\Youtube-Player\Youtube Player\bin\Debug\AxInterop.WMPLib.dll
+E:\Programming-Stuffs\C#\Projects\Youtube-Player\Youtube Player\obj\Debug\Interop.ShockwaveFlashObjects.dll
+E:\Programming-Stuffs\C#\Projects\Youtube-Player\Youtube Player\obj\Debug\Interop.WMPLib.dll
+E:\Programming-Stuffs\C#\Projects\Youtube-Player\Youtube Player\obj\Debug\AxInterop.ShockwaveFlashObjects.dll
+E:\Programming-Stuffs\C#\Projects\Youtube-Player\Youtube Player\obj\Debug\AxInterop.WMPLib.dll
+E:\Programming-Stuffs\C#\Projects\Youtube-Player\Youtube Player\obj\Debug\Youtube Player.csproj.ResolveComReference.cache
+E:\Programming-Stuffs\C#\Projects\Youtube-Player\Youtube Player\obj\Debug\Youtube_Player.Form1.resources
+E:\Programming-Stuffs\C#\Projects\Youtube-Player\Youtube Player\obj\Debug\Youtube_Player.Properties.Resources.resources
+E:\Programming-Stuffs\C#\Projects\Youtube-Player\Youtube Player\obj\Debug\Youtube Player.csproj.GenerateResource.cache
+E:\Programming-Stuffs\C#\Projects\Youtube-Player\Youtube Player\obj\Debug\Youtube Player.csproj.CoreCompileInputs.cache
+E:\Programming-Stuffs\C#\Projects\Youtube-Player\Youtube Player\obj\Debug\Youtube Player.csproj.CopyComplete
+E:\Programming-Stuffs\C#\Projects\Youtube-Player\Youtube Player\obj\Debug\Youtube Player.exe
+E:\Programming-Stuffs\C#\Projects\Youtube-Player\Youtube Player\obj\Debug\Youtube Player.pdb
